@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+h1{
+  font-family: 'Permanent Marker';
+  font-size: 75px;
+  color: darkorange;
+}
+
+h3{
+  font-size: 25px;
+  font-family: 'Roboto';
+}
