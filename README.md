@@ -24,6 +24,17 @@ The user should be able to:
 
   * Filter the users by at least one property.
 
-## Scren Shot
+## ScreenShot
 
 ![picture](public/APP.png)
+
+
+## Built With
+
+```
+-CSS
+-React
+-Node
+-HTML
+-Bootstrap
+```
